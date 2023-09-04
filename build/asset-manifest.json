@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94f7191b.chunk.css",
+    "main.js": "/static/js/main.3b8a6ac6.chunk.js",
+    "main.js.map": "/static/js/main.3b8a6ac6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a90f4286.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a90f4286.js.map",
+    "static/js/2.879f181b.chunk.js": "/static/js/2.879f181b.chunk.js",
+    "static/js/2.879f181b.chunk.js.map": "/static/js/2.879f181b.chunk.js.map",
+    "static/js/3.fb5367b6.chunk.js": "/static/js/3.fb5367b6.chunk.js",
+    "static/js/3.fb5367b6.chunk.js.map": "/static/js/3.fb5367b6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.94f7191b.chunk.css.map": "/static/css/main.94f7191b.chunk.css.map",
+    "static/js/2.879f181b.chunk.js.LICENSE.txt": "/static/js/2.879f181b.chunk.js.LICENSE.txt",
+    "static/media/blastoise.be00e6bb.png": "/static/media/blastoise.be00e6bb.png",
+    "static/media/bulbasaur.3b450937.png": "/static/media/bulbasaur.3b450937.png",
+    "static/media/charizard.029caf95.png": "/static/media/charizard.029caf95.png",
+    "static/media/charmander.e7501175.png": "/static/media/charmander.e7501175.png",
+    "static/media/error.d055cd0f.webp": "/static/media/error.d055cd0f.webp",
+    "static/media/gengar.a9d38ed1.png": "/static/media/gengar.a9d38ed1.png",
+    "static/media/mejor.b4d630c0.png": "/static/media/mejor.b4d630c0.png",
+    "static/media/squirtle.2d5d169f.png": "/static/media/squirtle.2d5d169f.png",
+    "static/media/titulon.1090ac41.png": "/static/media/titulon.1090ac41.png",
+    "static/media/venasaur.47cec775.png": "/static/media/venasaur.47cec775.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a90f4286.js",
+    "static/js/2.879f181b.chunk.js",
+    "static/css/main.94f7191b.chunk.css",
+    "static/js/main.3b8a6ac6.chunk.js"
+  ]
+}
